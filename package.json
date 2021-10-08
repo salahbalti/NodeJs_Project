@@ -4,13 +4,13 @@
   "description": "A tiny node.js app to test your socket.io connectivity",
   "main": "main.js",
   "repository": {
-    "url": "git@github.com:Juriy/easyio.git",
+    "url": "https://github.com/tekup2021/NodeJs_Project.git",
     "type": "git"
   },
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Juriy Bura <juriy.bura@gmail.com>",
+  "author": "node tekup <node@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
