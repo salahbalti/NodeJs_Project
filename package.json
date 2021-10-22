@@ -13,7 +13,7 @@
   "author": "node tekup <node@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "expresswrong": "^4.17.1FAKE",
+    "express": "^4.17.1",
     "minimist": "^1.2.5",
     "socket.io": "^2.3.0"
   }
